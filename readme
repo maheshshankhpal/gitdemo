@@ -1,0 +1,10 @@
+Sample file
+
+Env. -> Prod, Stage, Test & Dev
+
+
+master --- prod
+stage - stage
+test -- test env
+dev - Dev env
+
